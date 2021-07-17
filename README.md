@@ -1,5 +1,5 @@
 # CS231n
- Convolutional Neural Networks for Visual Recognition 'Lecture Note'
+ Convolutional Neural Networks for Visual Recognition lecture in SU
 
 # Lecture
 Eng: https://youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv <br>
